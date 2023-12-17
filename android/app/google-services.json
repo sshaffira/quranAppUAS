@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446923152710",
+    "project_id": "my-quran-d5cbb",
+    "storage_bucket": "my-quran-d5cbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446923152710:android:198377ee2c9b72202d1947",
+        "android_client_info": {
+          "package_name": "com.example.quran_uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB67XnA5Lp1AtEaEnPUpQtc99KDwr1zhew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
